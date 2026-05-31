@@ -1,0 +1,6 @@
+@BuilderTracker.API_HostAddress = http://localhost:5169
+
+GET {{BuilderTracker.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
